@@ -1,4 +1,4 @@
-var proxy = "PROXY ipv6.chenhen.top:9999";
+var proxy = "PROXY 110.42.59.58:40335";
 
 var direct = 'DIRECT';
 
